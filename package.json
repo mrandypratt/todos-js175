@@ -7,8 +7,17 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "start"
+    "start": "npx nodemon todos.js",
+    "test": "none"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
