@@ -1,0 +1,14 @@
+{
+  "name": "todos-js175",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todos.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
